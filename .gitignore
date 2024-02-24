@@ -1,0 +1,11 @@
+.venv
+.idea
+*.egg-info
+*.pyc
+temp
+dist
+build
+.pytest_cache
+.DS_Store
+docs/_build
+.ipynb_checkpoints
